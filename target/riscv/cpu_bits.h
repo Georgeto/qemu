@@ -424,6 +424,7 @@
 
 /* Virtulisation Register Fields */
 #define VIRT_ONOFF          1
+#define FORCE_HS_EXCEP      2
 
 /* RV32 satp CSR field masks */
 #define SATP32_MODE         0x80000000
